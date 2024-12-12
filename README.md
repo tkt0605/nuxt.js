@@ -1,7 +1,6 @@
-# sample
+# Nuxt.js Application !!
 
 ## Build Setup
-
 ```bash
 # install dependencies
 $ npm install
